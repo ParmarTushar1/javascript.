@@ -30,3 +30,9 @@ console.table([accuntId,accuntEmail,accuntpassword,accuntcity,accuntstate])
 // block in which they are defined (e.g., within a loop or conditional statement).
 // Variables declared with let cannot be redeclared within the same block, but they can 
 // be reassigned.
+
+// summary 
+// Use let for variables that need to be block-scoped and may require reassignment but not 
+// redeclaration.
+// Use const for variables that need to be block-scoped and should not be reassigned after 
+// initialization, although their properties or elements can still be mutated.
