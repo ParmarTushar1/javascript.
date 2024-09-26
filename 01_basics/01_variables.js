@@ -33,7 +33,7 @@ console.table([accuntId,accuntEmail,accuntpassword,accuntcity,accuntstate])
 // . function-scoped (works within the function).
 // . hoisted and initialized with Undefined.
 // . can be redeclared in the same scope. 
-
+                   
 // prefer not to use var 
 // because of issue in block scope and functionl scope
  
