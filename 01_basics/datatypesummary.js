@@ -15,9 +15,8 @@
 //BigInt (ES2020): Used for representing integers larger than 2^53 - 1, which is the limit for the Number type. 
 //Example: let bigInt = 123456789012345678901234567890n;.
 
+
 //non-primitive
-
-
 //Array: An ordered list of values (indexed collection).
 // Example: let arr = [1, 2, 3];.
 //Function: A block of code that can be invoked or called.
@@ -44,3 +43,4 @@
 //        Function  =>  function
 //        Object  =>  object
 
+  
