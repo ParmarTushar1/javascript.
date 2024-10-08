@@ -25,7 +25,7 @@
 
 
 
-// add ()
+add ()
 
 //1
 // function add (){
