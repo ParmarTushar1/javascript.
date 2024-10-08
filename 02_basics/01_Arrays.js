@@ -51,3 +51,15 @@ console.log(myn2);
 
 // can't add new elements                   //can add new elements to array 
  
+
+
+ 
+//slice()
+//Array’s slice() is used to extract a shallow copy of 
+//the elements from array into a new array. 
+
+
+//splice()
+//Array’s splice() method is used to remove few elements,
+//replace or add new elements in the array.
+
