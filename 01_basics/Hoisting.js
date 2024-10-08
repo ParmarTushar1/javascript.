@@ -9,8 +9,8 @@
 // Hoisting is not work with let const 
 
 // let a ;
-// console.log(a); //output :- undefined 
-// const  a=5;     // output:-  ReferenceError: Cannot access 'a' before initialization
+// console.log(a);          //output :- undefined 
+// const  a=5;              // output:-  ReferenceError: Cannot access 'a' before initialization
 
 
 // var   a=5;               
@@ -41,7 +41,7 @@
 
 //3
 // sayHello();
-// function sayHello() {
+// function sayHello() {                      //output :- Hello, World!
 //   console.log("Hello, World!");
 // }
 
@@ -54,3 +54,4 @@
 // console.log("hello");
 
 //  }
+
