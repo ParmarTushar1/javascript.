@@ -19,6 +19,10 @@ console.table([accuntId,accuntEmail,accuntpassword,accuntcity,accuntstate])
 //in javaScript  Var,let and const are used for varible declaration ,
 //but thay have different behaviors and use cases:
 
+// let and const is not a global scope 
+//var is a global scope 
+
+
 //const
 // . block-scoped 
 // . hoisted but not initialized 
