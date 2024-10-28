@@ -1,0 +1,30 @@
+//objects
+//JavaScript mein object ek data structure hai jo key-value pairs ko store karta hai.
+
+//Plain / literals / Object:-Simple key-value pair waale objects.
+//let person = { name: "Rahul",
+// age: 25 };
+
+//Array:-Special object jo numbered indexes mein data store karta hai.
+//let fruits = ["Apple", "Banana"];
+
+//Function Object:-Function bhi ek type ka object hai.
+//function greet() {
+  //  console.log("Hello!");
+//}
+
+//Date:-Date aur time handle karne ke liye built-in object.
+//let today = new Date();
+
+//Math:-- Math operations perform karne ke liye built-in object.
+//let result = Math.sqrt(16);
+
+
+//Set:-Unique values store karne ke liye.
+//let set = new Set([1, 2, 3]);
+
+
+//Map:- - Key-value pairs store karta hai, lekin kisi bhi type ki key le sakta hai.
+//let map = new Map();
+//map.set("name", "Rahul");
+
